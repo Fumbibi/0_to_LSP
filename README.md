@@ -2,8 +2,9 @@
 A guided tour of neovim
 or the notes along the way
 
-## TODO
-Figure out why I didn't know that password authentication was removed on August 13, 2021 and get my changes pushed.
+//TODO
+//Figure out why I didn't know that password authentication was removed on August 13, 2021 and get my changes pushed.
+//Learn neovim motions, now that I know how to configure it
 
 This is the continuation of my story from the introduction that I began to write in Doc, which includes this information as well, thus making this whole line completely redundant.
 
