@@ -3,7 +3,9 @@ A guided tour of neovim
 or the notes along the way
 
 //TODO
+
 //Figure out why I didn't know that password authentication was removed on August 13, 2021 and get my changes pushed.
+
 //Learn neovim motions, now that I know how to configure it
 
 This is the continuation of my story from the introduction that I began to write in Doc, which includes this information as well, thus making this whole line completely redundant.
@@ -150,4 +152,8 @@ In case anyone wasn't able to tell by now, who this mysterious youtuber is.
 
 His name: ThePrimeagen.
 
-
+Kind of like a P.S. 
+I learned how to create a PAT for GitHub and was able to use it to push my local changes to this repo. 
+Scanning...
+Detecting...
+...No skill issues found
