@@ -1,4 +1,4 @@
-# 0_to_LSP
+# nvim_0_to_LSP
 A guided tour of neovim
 or the notes along the way
 
