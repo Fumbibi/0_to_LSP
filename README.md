@@ -46,7 +46,7 @@ Then, I noticed he had a blank line at the end.
 
 I'm just more efficient, what can I say?
 
-<insert meme node_module_heaviest_objects_in_the_universe.jpg>
+![Alt text](https://github.com/Fumbibi/nvim_0_to_LSP/blob/main/node_modules.png)
 
 Okay, I updated to 0.1.3 for Telescope and it fixed the issue with it just failing.
 I have the error code back in the Doc I started to write this in. Searched it up, saw it had been fixed in 0.1.3
