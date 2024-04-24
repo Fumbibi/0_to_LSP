@@ -148,12 +148,45 @@ I totally had them and now I've lost them. I won't trouble shoot that now. I mus
 The time has come, I have reached the end of the video and this tutorial.
 Now I see that I have regularly gone past the 80-character line in this and that's okay. 
 
-In case anyone wasn't able to tell by now, who this mysterious youtuber is.
+In case anyone wasn't able to tell by now, who the mysterious tour guide and youtuber is.
 
-His name: ThePrimeagen.
+His name: ThePrimeagen
+
+His Links
+
+YouTube:
+<a class="yt-core-attributed-string__link yt-core-attributed-string__link--display-type yt-core-attributed-string__link--call-to-action-color" tabindex="0" aria-label="YouTube Channel Link: @ThePrimeagen" href="https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw" rel="nofollow" target="" force-new-state="true">&nbsp;&nbsp;<span class="yt-core-attributed-string--inline-flex-mod" style="margin-top: 0.5px;"><img alt="" style="height: 10px; width: 14px;" class="yt-core-image yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center yt-core-image--content-mode-scale-to-fill yt-core-image--loaded" src="https://www.gstatic.com/youtube/img/watch/yt_favicon.png"></span>&nbsp;/&nbsp;@theprimeagen&nbsp;&nbsp;</a>
+
+Discord:
+<a class="yt-core-attributed-string__link yt-core-attributed-string__link--display-type yt-core-attributed-string__link--call-to-action-color" tabindex="0" aria-label="Discord Channel Link: discord" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbHBoYlNkZmNOejdhVXdMN3FVZWx5V0MzS3hLQXxBQ3Jtc0tuaG9IVkhtZWMyUFVsTTNMc2NfZHY1aHQ3d0NIU090emtmbGR2WUpDaWNRTDl3N1ZBZ0tSVjZWODV2V1NQQjdoNlVOZUVXM3JGYllZbm9HcG9vOVo5NDdyWlNzOWtKWWlMMmNzUkNXVno3aHcwaFlUSQ&amp;q=https%3A%2F%2Fdiscord.gg%2FThePrimeagen&amp;v=x7v6SNIgJpE" rel="nofollow" target="_blank" force-new-state="true">&nbsp;<span class="yt-core-attributed-string--inline-flex-mod" style="margin-top: 0.5px;"><img alt="" style="height: 14px; width: 14px;" class="yt-core-image yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center yt-core-image--content-mode-scale-to-fill yt-core-image--loaded" src="https://www.gstatic.com/youtube/img/watch/social_media/discord_1x.png"></span>&nbsp;/&nbsp;theprimeagen&nbsp;&nbsp;</a>
+
+Twitch:
+<a class="yt-core-attributed-string__link yt-core-attributed-string__link--display-type yt-core-attributed-string__link--call-to-action-color" tabindex="0" aria-label="Twitch Channel Link: ThePrimeagen" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbThmUXdQVWM0SWJyNkZMNVFUYlhSTkIwcGdDUXxBQ3Jtc0trdHZXSXVHNlNjUVM0eEVCZ2k2OWk5N08yUHNpbU9HaUxoNC1LZHBERjVoWEd6U2dQV0hxMHE4YnBIMDVUUXF5M2ZqajBRMWdXVGEyMjhIbTJKODhHU3pxY2NDVTdRblg5MXBWSk54VldNZmhxMW95RQ&amp;q=https%3A%2F%2Ftwitch.tv%2FThePrimeagen&amp;v=x7v6SNIgJpE" rel="nofollow" target="_blank" force-new-state="true">&nbsp;<span class="yt-core-attributed-string--inline-flex-mod" style="margin-top: 0.5px;"><img alt="" style="height: 14px; width: 14px;" class="yt-core-image yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center yt-core-image--content-mode-scale-to-fill yt-core-image--loaded" src="https://www.gstatic.com/youtube/img/watch/social_media/twitch_1x.png"></span>&nbsp;/&nbsp;theprimeagen&nbsp;&nbsp;</a>
+
+Insta:
+<a class="yt-core-attributed-string__link yt-core-attributed-string__link--display-type yt-core-attributed-string__link--call-to-action-color" tabindex="0" aria-label="Instagram Channel Link: ThePrimeagen" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2VlcDA1dGNtVXRmS0NzVWE4OTQ1TUNpbURSZ3xBQ3Jtc0trYjNCMEVwNFhfR3NQbEU3RnhiZFU0clVwc2hhbkwzdkFwZkJiM19VS0ZZQVppV0lOSDR0dlJyYnRIV1lhOEVSSGJTbW41WXJrZ3FSZFE0UUU3Z0JfVUVYMkpXcXl1b3hqSU5wSEd5MHQyUlpnMG9VSQ&amp;q=https%3A%2F%2Finstagram.com%2FThePrimeagen&amp;v=x7v6SNIgJpE" rel="nofollow" target="_blank" force-new-state="true">&nbsp;<span class="yt-core-attributed-string--inline-flex-mod" style="margin-top: 0.5px;"><img alt="" style="height: 14px; width: 14px;" class="yt-core-image yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center yt-core-image--content-mode-scale-to-fill yt-core-image--loaded" src="https://www.gstatic.com/youtube/img/watch/social_media/instagram_1x.png"></span>&nbsp;/&nbsp;theprimeagen&nbsp;&nbsp;</a>
+
+X:
+<a class="yt-core-attributed-string__link yt-core-attributed-string__link--display-type yt-core-attributed-string__link--call-to-action-color" tabindex="0" aria-label="Twitter Channel Link: ThePrimeagen" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbUpxS1FUc05VYWtUYlJRRlVJNEg0ekthSEVVQXxBQ3Jtc0tuMkxaeTVkY3NESERTQmp5Vk9ab2hGR3RfMWM3M1E2dndzeXRTVFk5Z2x4NXJ0eXV6UjYyWktwZkdfWFVSTW1tZmJKdEtsYno3eVBJOWJiMzhSa1NlVU1NQVFqWFJRQ2hVc1dfejhpbUhsZzBsMmdmVQ&amp;q=https%3A%2F%2Ftwitter.com%2FThePrimeagen&amp;v=x7v6SNIgJpE" rel="nofollow" target="_blank" force-new-state="true">&nbsp;<span class="yt-core-attributed-string--inline-flex-mod" style="margin-top: 0.5px;"><img alt="" style="height: 14px; width: 14px;" class="yt-core-image yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center yt-core-image--content-mode-scale-to-fill yt-core-image--loaded" src="https://www.gstatic.com/youtube/img/watch/social_media/twitter_1x_v2.png"></span>&nbsp;/&nbsp;theprimeagen&nbsp;&nbsp;</a>
+
+
+
+I followed his [tour](https://www.youtube.com/watch?v=w7i4amO_zaE) video
+
+I later heard his [recommendation](https://github.com/nvim-lua/kickstart.nvim) for beginnser
+
 
 Kind of like a P.S. 
+
+Steps I followed after the end of the tour:
+
 I learned how to create a PAT for GitHub and was able to use it to push my local changes to this repo. 
+
+
 Scanning...
+
+
 Detecting...
+
+
 ...No skill issues found
