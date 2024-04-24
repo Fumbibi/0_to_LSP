@@ -21,7 +21,7 @@ I think there was another issue I ran into, but they both definitely fall clearl
 
 Skill issue...
 
-This solution was learning to spell. F-u-m-b-i-b-i != Fumbibi
+This solution was learning to spell. F-u-m-b-i-b-i != Fumbmibi
 "Now we're cruisin'" - Youtuber 2023
 
 I'm gonna get my package manager, but not because an AI told me to. Also, grabbing a fuzzy finder is going to be extremely useful.
