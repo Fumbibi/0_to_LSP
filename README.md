@@ -173,7 +173,7 @@ X:
 
 I followed his [tour](https://www.youtube.com/watch?v=w7i4amO_zaE) video
 
-I later heard his [recommendation](https://github.com/nvim-lua/kickstart.nvim) for beginnser
+I later heard his [recommendation](https://github.com/nvim-lua/kickstart.nvim) for beginners
 
 
 Kind of like a P.S. 
