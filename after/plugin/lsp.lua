@@ -11,7 +11,7 @@ require('mason-lspconfig').setup({
 	-- replace the language servers listed here
 	-- with the ones you want to install
 	ensure_installed = {
-	  'typescript-language-server',
+	  'tsserver',
 	  'eslint',
 	  'lua_ls',
 	  'rust_analyzer',
